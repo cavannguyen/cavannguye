@@ -26,10 +26,14 @@
     gstreamer1.0-plugins-base \
     gstreamer1.0-plugins-good
 
+
 !sudo apt-get install build-essential libsqlite3-dev sqlite3 bzip2 libbz2-dev zlib1g-dev libssl-dev openssl libgdbm-dev libgdbm-compat-dev liblzma-dev libreadline-dev libncursesw5-dev libffi-dev uuid-dev libffi6
+
 
 !sudo apt-get install libffi-dev
 
+
 !buildozer init
+
 
 !buildozer -v android debug
