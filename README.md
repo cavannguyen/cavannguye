@@ -4,6 +4,8 @@
 
 !pip install cython==0.29.19
 
+!lsb_release -a
+
 !sudo apt-get install -y \
     python3-pip \
     build-essential \
