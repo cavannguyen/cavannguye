@@ -47,4 +47,5 @@
 !buildozer -v android debug
 
 !buildozer android clean
+kivymd, pillow,kivy_gadren
 
